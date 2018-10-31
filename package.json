@@ -1,0 +1,23 @@
+{
+  "name": "warhammer-deck-code-generator-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphybob/warhammer-deck-code-generator-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphybob/warhammer-deck-code-generator-heroku/issues"
+  },
+  "homepage": "https://github.com/murphybob/warhammer-deck-code-generator-heroku#readme",
+  "dependencies": {
+    "@playfusion/warhammer-deck-sharing": "^1.0.9",
+    "express": "^4.16.4"
+  }
+}
